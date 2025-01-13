@@ -17,14 +17,6 @@ This project serves as a comprehensive solution for online store, seamlessly int
 **Server:** Prisma (Planetscale)
 
 **Other:** Stripe, Clerk
-
-## Demo
-
-Admin Dashboard: https://ecommerce-project-admin-five.vercel.app
-
-Store: https://ecommerce-project-store-phi.vercel.app
-
-
 ## Installation
 
 To install this project you have to run both instances (Admin Dashboard and Store) in separate servers. Download whole repository and follow instructions:

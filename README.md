@@ -1,3 +1,6 @@
+PREVIEW 1
+https://github.com/vaishh1803/PRODIGY_FS_03/commit/0f1bcb3688a93b9797d2149339e185bc166e8414
+PREVIEW 2
 
 This project serves as a comprehensive solution for online store, seamlessly integrating real-time store management with an elegant and efficient e-commerce platform. It was created as a reference point to understand how to build an advanced online store.
 
